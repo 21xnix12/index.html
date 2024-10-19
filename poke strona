@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tak będzie nazywać się zakładka w przeglądarce</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Suicune</h1>
+    <p>pokemon typu wodnego</p>
+    <h2>
+        suicune satatystiki to:
+    </h2>
+        <ul>
+            <li>hp:100</li>
+            <li>attack:75</li>
+            <li>defense:115</li>
+            <li>sp.atk:90</li>
+            <li>sp.def:115</li>
+            <li>speed:85</li>
+            <li>total:580</li>
+        </ul>
+
+
+     <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//245.png">
+
+    <h1>Entei</h1> 
+    <p>pokemon typu ogniowego</p>
+    <H2>Entei satatystiki</H2>
+    <ul>
+        <li>Hp:115</li>
+        <li>attack:115</li>
+        <li>Defense:85</li>
+        <li>Sp.Atk:90</li>
+        <li>Sp.Def:75</li>
+        <li>speed:100</li>
+        <li>total:580</li>
+    </ul>    
+
+     <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//244.png">
+
+    <H1>Raikou</H1>
+    <p>pokemon typu elektrycznego</p>
+    <H2>Raikou statystiki:</H2>
+    <ul>
+        <li>Hp:90</li>
+        <li>attack:85</li>
+        <li>defense:75</li>
+        <li>Sp.atk:115</li>
+        <li>Sp>def:100</li>
+        <li>speed:115</li>
+        <li>total:580</li>
+    </ul>
+    <img src="https://db.pokemongohub.net/_next/image?url=%2Fimages%2Fofficial%2Ffull%2F243.webp&w=640&q=75">
+</body>
+</html>
